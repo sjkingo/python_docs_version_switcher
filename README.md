@@ -5,9 +5,11 @@ version on `docs.python.org` to use. For instance, setting it to `3.5` and then
 browsing to the docs for `2.7` will automatically redirect you to the version
 you specified.
 
-## Installation
+## Manual installation
 
-1. [Download the extension](https://github.com/sjkingo/python_docs_version_switcher/releases/download/1.0/python_docs_version_switcher.crx)
+The extension is not (yet) available on the Chrome Store, so it must be installed manually:
+
+1. [Download the extension](https://github.com/sjkingo/python_docs_version_switcher/releases/download/1.0/python_docs_version_switcher.crx) (version 1.0)
 2. Open the Chrome Extensions page and drag the extension in and drop it on the page.
 3. You will see a popup asking if you wish to install the extension.
 
